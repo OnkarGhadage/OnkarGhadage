@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<div align="center">
+
+  ![](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I'm%20Onkar%20Ghadage&fontColor=ffffff)<br>
+  
+  ![](https://nirzak-streak-stats.vercel.app/?user=OnkarGhadage&theme=dark&hide_border=false)
+
+</div>
+
 <!--
 **OnkarGhadage/OnkarGhadage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
