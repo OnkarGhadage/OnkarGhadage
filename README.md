@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I'm%20Onkar%20Ghadage&fontColor=ffffff)<br>
+  ![](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I'm%20Onkar%20Ghadage&fontColor=f5f5f5)<br>
   
   ![](https://nirzak-streak-stats.vercel.app/?user=OnkarGhadage&theme=dark&hide_border=false)
 
