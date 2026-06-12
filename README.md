@@ -4,7 +4,7 @@
 
   ![](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I'm%20Onkar%20Ghadage&fontColor=f5f5f5)<br>
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=OnkarGhadage&theme=dark&hide_border=false)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OnkarGhadage&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
